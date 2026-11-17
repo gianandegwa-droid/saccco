@@ -1,0 +1,10 @@
+DECLARATION
+I declare that the contents of this system proposal are my original work, developed through the study and interpretation of relevant academic materials, professional publications and other credible sources concerning digital membership record management and information systems. All ideas, information and materials obtained from external sources have been appropriately acknowledged and referenced using the APA 7th edition referencing style. This proposal has not been plagiarized and has not previously been submitted in this form to the Department of ICT and Engineering of Zetech University or any other institution for academic purposes. The study focuses on the challenges experienced by MemberLink SACCO in Nyeri in managing member information through paper folders, SMS messages and spreadsheets, and proposes a digital membership record management system as a potential solution to improve the accuracy, accessibility, consistency and reliability of member records.
+
+Student Name: Bernardette Njeri Ndengwa
+Sign: BNN
+
+ABSTRACT
+This research investigates the challenges associated with the management of membership records at MemberLink SACCO in Nyeri and explores a suitable digital solution for improving the accuracy, accessibility and reliability of member information. The current membership record-management approach relies on paper folders, SMS messages and spreadsheets, resulting in fragmented information and difficulties in maintaining consistent and up-to-date records. The problem has contributed to missing member details, duplicate records, delays in processing member-related services, increased employee workload and concerns among members regarding fairness and reliability. The study therefore aims to investigate the existing membership record-management challenges, explore digital software solutions that can address the identified challenges, and conduct a feasibility assessment to determine a suitable solution for implementation.
+
+[... trimmed for brevity in this prototype — full submission should paste the full document provided to create the final appendix.]
